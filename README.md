@@ -21,14 +21,21 @@ About Me
 - Passionate about algorithms, problem-solving and software architecture.
 - Building projects to turn technical knowledge into practical experience.
 
+
 Areas of Interest
 
-Field| Focus
-Artificial Intelligence| Machine learning, intelligent applications and AI-powered solutions
-Systems Engineering| Operating systems, distributed systems, performance and scalability
-Quantitative Development| Algorithms, mathematical computing and financial technology
-Software Engineering| Software architecture, clean code and problem-solving
-Web Development| Responsive, functional and engaging digital experiences
+Field & Focus
+
+- Artificial Intelligence| Machine learning, intelligent applications and AI-powered solutions
+
+- Systems Engineering| Operating systems, distributed systems, performance and scalability
+
+- Quantitative Development| Algorithms, mathematical computing and financial technology
+
+- Software Engineering| Software architecture, clean code and problem-solving
+
+- Web Development| Responsive, functional and engaging digital experiences
+
 
 Technologies & Tools
 
