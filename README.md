@@ -1,4 +1,4 @@
-## Ojo David Oluwadarasimi
+**Ojo David Oluwadarasimi**
 
 Building Today. Engineering Tomorrow.
 
@@ -12,7 +12,7 @@ I am committed to continuous learning, engineering excellence and building techn
 
 ---
 
-## About Me
+**About Me**
 
 - Currently pursuing Software Engineering.
 - Exploring Artificial Intelligence and Machine Learning.
@@ -23,7 +23,7 @@ I am committed to continuous learning, engineering excellence and building techn
  
 ---
 
-## Areas of Interest
+**Areas of Interest**
 
 | Field | Focus |
 |-------|-------|
@@ -50,7 +50,7 @@ Currently Strengthening
 
 ---
 
-## What I'm Building Towards
+**What I'm Building Towards**
 
 My long-term engineering interests include:
 
@@ -94,7 +94,7 @@ I'm open to connecting with developers, engineers, technology enthusiasts and pe
 
 ---
 
-## My Engineering Philosophy
+**My Engineering Philosophy**
 
 Don't just learn how technology works. Understand why it works, challenge its limitations and build something better.
 
