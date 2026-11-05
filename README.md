@@ -1,3 +1,13 @@
+
+<p align="center">
+  <img
+    src="./assets/github-banner.png"
+    alt="Ojo David Oluwadarasimi — AI, Systems Engineering and Quantitative Development"
+    width="100%"
+  />
+</p>
+
+
 **Ojo David Oluwadarasimi**
 
 Building Today. Engineering Tomorrow.
