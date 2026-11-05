@@ -25,17 +25,13 @@ About Me
 
 Areas of Interest
 
-Field & Focus
-
-- Artificial Intelligence| Machine learning, intelligent applications and AI-powered solutions
-
-- Systems Engineering| Operating systems, distributed systems, performance and scalability
-
-- Quantitative Development| Algorithms, mathematical computing and financial technology
-
-- Software Engineering| Software architecture, clean code and problem-solving
-
-- Web Development| Responsive, functional and engaging digital experiences
+| Field | Focus |
+|-------|-------|
+| **Artificial Intelligence** | Machine learning, intelligent applications and AI-powered solutions |
+| **Systems Engineering** | Operating systems, distributed systems, performance and scalability |
+| **Quantitative Development** | Algorithms, mathematical computing and financial technology |
+| **Software Engineering** | Software architecture, clean code and problem-solving |
+| **Web Development** | Responsive, functional and engaging digital experiences |
 
 ---
 
@@ -70,11 +66,10 @@ Explore My Work
 
 I believe the best way to demonstrate engineering ability is through things people can actually explore, test and learn from.
 
-Portfolio:
-https://ojodavidoluwadarasimi.netlify.app/
-
-GitHub Repositories:
-https://github.com/ojodavidoluwadarasimi?tab=repositories
+<p>
+<a href="https://ojodavidoluwadarasimi.netlify.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://ojodavidoluwadarasimi.netlify.app/">https://ojodavidoluwadarasimi.netlify.app/</a><br><br>
+<a href="https://github.com/ojodavidoluwadarasimi?tab=repositories"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub Repositories"></a>&nbsp; <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">https://github.com/ojodavidoluwadarasimi?tab=repositories</a>
+</p>
 
 ---
 
@@ -82,10 +77,13 @@ Let's Connect
 
 I'm open to connecting with developers, engineers, technology enthusiasts and people working on interesting ideas.
 
-- LinkedIn: https://www.linkedin.com/in/ojodavidoluwadarasimi
-- GitHub: https://github.com/ojodavidoluwadarasimi
-- Portfolio: https://ojodavidoluwadarasimi.netlify.app/
-- Email: ojodavidoluwadarasimi.pro@gmail.com
+
+<p>
+<a href="https://www.linkedin.com/in/ojodavidoluwadarasimi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn"></a>&nbsp; <a href="https://www.linkedin.com/in/ojodavidoluwadarasimi">https://www.linkedin.com/in/ojodavidoluwadarasimi</a><br><br>
+<a href="https://github.com/ojodavidoluwadarasimi"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub"></a>&nbsp; <a href="https://github.com/ojodavidoluwadarasimi">https://github.com/ojodavidoluwadarasimi</a><br><br>
+<a href="https://ojodavidoluwadarasimi.netlify.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://ojodavidoluwadarasimi.netlify.app/">https://ojodavidoluwadarasimi.netlify.app/</a><br><br>
+<a href="mailto:ojodavidoluwadarasimi.pro@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email"></a>&nbsp; <a href="mailto:ojodavidoluwadarasimi100@gmail.com">ojodavidoluwadarasimi100@gmail.com</a>
+</p>
 
 ---
 
