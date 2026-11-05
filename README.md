@@ -99,3 +99,16 @@ I'm open to connecting with developers, engineers, technology enthusiasts and pe
 Don't just learn how technology works. Understand why it works, challenge its limitations and build something better.
 
 Curiosity drives me. Engineering shapes me. Building moves me forward.
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation"
+       src="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
+</picture>
