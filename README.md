@@ -10,8 +10,6 @@
 
 **Ojo David Oluwadarasimi**
 
-Building Today. Engineering Tomorrow.
-
 Aspiring AI Engineer | Systems Engineering | Quantitative Development
 
 I am passionate about understanding how technology works beneath the surface and using that knowledge to build meaningful digital experiences, intelligent applications and high-performance software systems.
