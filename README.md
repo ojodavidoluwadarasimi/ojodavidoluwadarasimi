@@ -80,6 +80,48 @@ I believe the best way to demonstrate engineering ability is through things peop
 
 ---
 
+
+
+## GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/ojodavidoluwadarasimi">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=ojodavidoluwadarasimi&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+      alt="GitHub Statistics"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/ojodavidoluwadarasimi">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ojodavidoluwadarasimi&layout=compact&theme=dark&hide_border=true&langs_count=8"
+      alt="Top Programming Languages"
+      height="180"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ojodavidoluwadarasimi&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation"
+       src="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
+</picture>
+
+---
+
 ## Let's Connect
 
 I'm open to connecting with developers, engineers, technology enthusiasts and people working on interesting ideas.
@@ -101,14 +143,3 @@ Don't just learn how technology works. Understand why it works, challenge its li
 Curiosity drives me. Engineering shapes me. Building moves me forward.
 
 
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake Animation"
-       src="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
-</picture>
