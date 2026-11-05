@@ -102,7 +102,7 @@ I believe the best way to demonstrate engineering ability is through things peop
   </a>
   <a href="https://github.com/ojodavidoluwadarasimi">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ojodavidoluwadarasimi&layout=compact&theme=dark&hide_border=true&langs_count=8"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ojodavidoluwadarasimi&layout=compact&theme=dark&hide_border=true&langs_count=8&v=2"
       alt="Top Programming Languages"
       height="180"
     />
