@@ -1,4 +1,4 @@
-Ojo David Oluwadarasimi
+## Ojo David Oluwadarasimi
 
 Building Today. Engineering Tomorrow.
 
@@ -12,7 +12,7 @@ I am committed to continuous learning, engineering excellence and building techn
 
 ---
 
-About Me
+## About Me
 
 - Currently pursuing Software Engineering.
 - Exploring Artificial Intelligence and Machine Learning.
@@ -23,7 +23,7 @@ About Me
  
 ---
 
-Areas of Interest
+## Areas of Interest
 
 | Field | Focus |
 |-------|-------|
@@ -50,7 +50,7 @@ Currently Strengthening
 
 ---
 
-What I'm Building Towards
+## What I'm Building Towards
 
 My long-term engineering interests include:
 
@@ -62,7 +62,7 @@ My long-term engineering interests include:
   
 ---
 
-Explore My Work
+## Explore My Work
 
 I believe the best way to demonstrate engineering ability is through things people can actually explore, test and learn from.
 
@@ -71,9 +71,16 @@ I believe the best way to demonstrate engineering ability is through things peop
 <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub Repositories"></a>&nbsp; <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">https://github.com/ojodavidoluwadarasimi?tab=repositories</a>
 </p>
 
+
+## My Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | My personal website showcasing who I am and what I build. [Live site](https://ojodavidoluwadarasimi.netlify.app/) | HTML, CSS, JavaScript |
+
 ---
 
-Let's Connect
+## Let's Connect
 
 I'm open to connecting with developers, engineers, technology enthusiasts and people working on interesting ideas.
 
@@ -87,7 +94,7 @@ I'm open to connecting with developers, engineers, technology enthusiasts and pe
 
 ---
 
-My Engineering Philosophy
+## My Engineering Philosophy
 
 Don't just learn how technology works. Understand why it works, challenge its limitations and build something better.
 
