@@ -91,6 +91,6 @@ I'm open to connecting with developers, engineers, technology enthusiasts and pe
 
 My Engineering Philosophy
 
-«Don't just learn how technology works. Understand why it works, challenge its limitations and build something better.»
+Don't just learn how technology works. Understand why it works, challenge its limitations and build something better.
 
 Curiosity drives me. Engineering shapes me. Building moves me forward.
