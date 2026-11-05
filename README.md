@@ -20,7 +20,8 @@ About Me
 - Developing an interest in quantitative computing and financial technology.
 - Passionate about algorithms, problem-solving and software architecture.
 - Building projects to turn technical knowledge into practical experience.
-
+ 
+---
 
 Areas of Interest
 
@@ -36,6 +37,7 @@ Field & Focus
 
 - Web Development| Responsive, functional and engaging digital experiences
 
+---
 
 Technologies & Tools
 
@@ -65,6 +67,8 @@ Currently Strengthening
 - Operating Systems and Computer Networks
 - Backend Development and System Design
 
+---
+
 What I'm Building Towards
 
 My long-term engineering interests include:
@@ -74,6 +78,8 @@ My long-term engineering interests include:
 - Exploring high-performance and low-latency computing.
 - Developing algorithmic and quantitative software.
 - Creating reliable software that solves real-world problems.
+  
+---
 
 Explore My Work
 
@@ -84,6 +90,8 @@ https://ojodavidoluwadarasimi.netlify.app/
 
 GitHub Repositories:
 https://github.com/ojodavidoluwadarasimi?tab=repositories
+
+---
 
 Let's Connect
 
