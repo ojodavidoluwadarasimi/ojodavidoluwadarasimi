@@ -85,9 +85,9 @@ I believe the best way to demonstrate engineering ability is through things peop
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | My personal website showcasing who I am and what I build. [Live site](https://ojodavidoluwadarasimi.netlify.app/) | HTML, CSS, JavaScript |
+| [**Data Structures and Algorithms**](https://github.com/ojodavidoluwadarasimi/data-structures-and-algorithms) | My practice solutions with the approach and time complexity explained. | Python |
 
 ---
-
 
 
 ## GitHub Statistics
