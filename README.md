@@ -2,7 +2,7 @@
 <p align="center">
   <img
     src="./assets/github-banner.png"
-    alt="Ojo David Oluwadarasimi — AI, Systems Engineering and Quantitative Development"
+    alt="Ojo David Oluwadarasimi — AI, System Engineering and Quantitative Development"
     width="100%"
   />
 </p>
@@ -10,7 +10,10 @@
 
 **Ojo David Oluwadarasimi**
 
-Aspiring AI Engineer | Systems Engineering | Quantitative Development
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C7B7&vCenter=true&width=520&height=40&lines=Aspiring+AI+Software+Engineer;Aspiring+System+Engineer;Aspiring+Quant+Developer" alt="Aspiring AI Software Engineer, System Engineer and Quant Developer">
+</p>
+
 
 I am passionate about understanding how technology works beneath the surface and using that knowledge to build meaningful digital experiences, intelligent applications and high-performance software systems.
 
