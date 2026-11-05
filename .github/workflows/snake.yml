@@ -1,0 +1,46 @@
+
+name: GitHub Contribution Snake
+
+on:
+  # Generate the animation every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual workflow execution
+  workflow_dispatch:
+
+  # Regenerate when changes are pushed to main
+  push:
+    branches:
+      - main
+
+# Required to publish generated files to the output branch
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate Contribution Snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake Animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ojodavidoluwadarasimi
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Animations to Output Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update GitHub contribution snake [skip ci]"
+          
