@@ -121,11 +121,14 @@ I believe the best way to demonstrate engineering ability is through things peop
   />
 </p>
 
-
 ## Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ojodavidoluwadarasimi&theme=onedark&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="Ojo David Oluwadarasimi's GitHub trophies" /></a>
+  <img
+    src="./profile/trophy.svg"
+    alt="Ojo David Oluwadarasimi's GitHub Trophies"
+    width="100%"
+  />
 </p>
 
 <picture>
