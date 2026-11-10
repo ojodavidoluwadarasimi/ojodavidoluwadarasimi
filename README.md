@@ -142,13 +142,17 @@ I believe the best way to demonstrate engineering ability is through things peop
 
 
 
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ojodavidoluwadarasimi/timeflow/main/assets/timeflow.svg"
-    alt="TIMEFLOW Nigeria Dot Matrix Clock"
-    width="100%"
-  />
+  <a href="https://ojodavidoluwadarasimi.github.io/timeflow/">
+    <img
+      src="https://timeflow-clock.ojodavidoluwadarasimi100.workers.dev/"
+      alt="TIMEFLOW Nigeria Dot Matrix Clock"
+      width="100%"
+    />
+  </a>
 </p>
+
 
 
 ---
