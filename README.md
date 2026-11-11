@@ -90,7 +90,7 @@ I believe the best way to demonstrate engineering ability is through things peop
 | [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | My personal website showcasing who I am and what I build. [Live site](https://ojodavidoluwadarasimi.netlify.app/) | HTML, CSS, JavaScript |
 | [**Data Structures and Algorithms**](https://github.com/ojodavidoluwadarasimi/data-structures-and-algorithms) | My practice solutions with the approach and time complexity explained. | Python |
 | [**Machine Learning Fundamentals**](https://github.com/ojodavidoluwadarasimi/machine-learning-fundamentals) | Machine learning projects solved from scratch and with scikit-learn. | Python, NumPy, scikit-learn |
-| [**ScoreWise**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB style CBT practice portal with 13 subjects, a realistic exam screen and questions that reword themselves. [Live site](https://scorewise-cbt-portal.netlify.app/) | HTML, CSS, JavaScript |
+| [**ScoreWise**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB style CBT practice portal with 13 subjects, a realistic exam screen and questions that reword themselves. [Live site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript |
 
 ---
 
