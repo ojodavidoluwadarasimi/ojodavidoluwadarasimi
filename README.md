@@ -7,13 +7,11 @@
   />
 </p>
 
-
-**Ojo David Oluwadarasimi**
+# Ojo David Oluwadarasimi
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C7B7&vCenter=true&width=520&height=40&lines=Aspiring+AI+Software+Engineer;Aspiring+System+Engineer;Aspiring+Quant+Developer" alt="Aspiring AI Software Engineer, System Engineer and Quant Developer">
 </p>
-
 
 I am passionate about understanding how technology works beneath the surface and using that knowledge to build meaningful digital experiences, intelligent applications and high-performance software systems.
 
@@ -23,7 +21,7 @@ I am committed to continuous learning, engineering excellence and building techn
 
 ---
 
-**About Me**
+## About Me
 
 - Currently pursuing Software Engineering.
 - Exploring Artificial Intelligence and Machine Learning.
@@ -31,13 +29,13 @@ I am committed to continuous learning, engineering excellence and building techn
 - Developing an interest in quantitative computing and financial technology.
 - Passionate about algorithms, problem-solving and software architecture.
 - Building projects to turn technical knowledge into practical experience.
- 
+
 ---
 
-**Areas of Interest**
+## Areas of Interest
 
 | Field | Focus |
-|-------|-------|
+|---|---|
 | **Artificial Intelligence** | Machine learning, intelligent applications and AI-powered solutions |
 | **Systems Engineering** | Operating systems, distributed systems, performance and scalability |
 | **Quantitative Development** | Algorithms, mathematical computing and financial technology |
@@ -46,22 +44,62 @@ I am committed to continuous learning, engineering excellence and building techn
 
 ---
 
-### Tech Stack:
+## Tech Stack
 
+### Programming Languages
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Currently Strengthening
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Database & Authentication
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+### Data Science & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Currently Strengthening
 
 - Data Structures and Algorithms
 - Object-Oriented Programming
+- Modern C++ and Python
 - Database Management and SQL
 - Operating Systems and Computer Networks
 - Backend Development and System Design
+- Artificial Intelligence and Machine Learning
+- Distributed Systems and High-Performance Computing
 
 ---
 
-**What I'm Building Towards**
+## What I'm Building Towards
 
 My long-term engineering interests include:
 
@@ -70,7 +108,7 @@ My long-term engineering interests include:
 - Exploring high-performance and low-latency computing.
 - Developing algorithmic and quantitative software.
 - Creating reliable software that solves real-world problems.
-  
+
 ---
 
 ## Explore My Work
@@ -78,19 +116,29 @@ My long-term engineering interests include:
 I believe the best way to demonstrate engineering ability is through things people can actually explore, test and learn from.
 
 <p>
-<a href="https://scorewise-cbt-portal.vercel.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://scorewise-cbt-portal.vercel.app/">https://scorewise-cbt-portal.vercel.app/</a><br><br>
-<a href="https://github.com/ojodavidoluwadarasimi?tab=repositories"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub Repositories"></a>&nbsp; <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">https://github.com/ojodavidoluwadarasimi?tab=repositories</a>
+  <a href="https://scorewise-cbt-portal.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="20" height="20" alt="Vercel">
+  </a>
+  &nbsp;
+  <a href="https://scorewise-cbt-portal.vercel.app/">ScoreWise CBT Portal</a>
+  <br><br>
+  <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">
+    <img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">Explore My Repositories</a>
 </p>
 
+---
 
 ## My Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**ScoreWise**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB style CBT practice portal with 13 subjects, a realistic exam screen and questions that reword themselves. [Live site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript|
-| [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | My personal website showcasing who I am and what I build. [Live site](https://ojodavidoluwadarasimi.netlify.app/) | HTML, CSS, JavaScript |
-| [**Data Structures and Algorithms**](https://github.com/ojodavidoluwadarasimi/data-structures-and-algorithms) | My practice solutions with the approach and time complexity explained. | Python |
-| [**Machine Learning Fundamentals**](https://github.com/ojodavidoluwadarasimi/machine-learning-fundamentals) | Machine learning projects solved from scratch and with scikit-learn. | Python, NumPy, scikit-learn |
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**ScoreWise CBT Portal**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB UTME and Post UTME CBT practice platform featuring 13 subjects, interactive examinations, student authentication, performance tracking and an expanding question bank. [Live Site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript, Python, FastAPI, Supabase, PostgreSQL, REST API, Vercel, Render |
+| [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | My personal website showcasing who I am and what I build. [Live Site](https://ojodavidoluwadarasimi.netlify.app/) | HTML, CSS, JavaScript |
+| [**Data Structures and Algorithms**](https://github.com/ojodavidoluwadarasimi/data-structures-and-algorithms) | Practice solutions exploring algorithms, problem-solving approaches and time complexity. | Python, C++ |
+| [**Machine Learning Fundamentals**](https://github.com/ojodavidoluwadarasimi/machine-learning-fundamentals) | Machine learning projects exploring fundamental concepts and practical implementations. | Python, NumPy, Pandas, Scikit-learn |
 
 ---
 
@@ -121,7 +169,9 @@ I believe the best way to demonstrate engineering ability is through things peop
   />
 </p>
 
-## Trophies
+---
+
+## GitHub Trophies
 
 <p align="center">
   <img
@@ -131,17 +181,25 @@ I believe the best way to demonstrate engineering ability is through things peop
   />
 </p>
 
+---
+
+## Contribution Activity
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake Animation"
-       src="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/ojodavidoluwadarasimi/ojodavidoluwadarasimi/output/github-snake.svg">
 </picture>
 
+---
 
-
+## TIMEFLOW
 
 <p align="center">
   <a href="https://ojodavidoluwadarasimi.github.io/timeflow/">
@@ -153,28 +211,45 @@ I believe the best way to demonstrate engineering ability is through things peop
   </a>
 </p>
 
-
-
 ---
 
 ## Let's Connect
 
 I'm open to connecting with developers, engineers, technology enthusiasts and people working on interesting ideas.
 
-
 <p>
-<a href="https://www.linkedin.com/in/ojodavidoluwadarasimi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn"></a>&nbsp; <a href="https://www.linkedin.com/in/ojodavidoluwadarasimi">https://www.linkedin.com/in/ojodavidoluwadarasimi</a><br><br>
-<a href="https://github.com/ojodavidoluwadarasimi"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub"></a>&nbsp; <a href="https://github.com/ojodavidoluwadarasimi">https://github.com/ojodavidoluwadarasimi</a><br><br>
-<a href="https://scorewise-cbt-portal.vercel.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://scorewise-cbt-portal.vercel.app/">https://scorewise-cbt-portal.vercel.app/</a><br><br>
-<a href="mailto:ojodavidoluwadarasimi100@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email"></a>&nbsp; <a href="mailto:ojodavidoluwadarasimi100@gmail.com">ojodavidoluwadarasimi100@gmail.com</a>
+  <a href="https://www.linkedin.com/in/ojodavidoluwadarasimi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ojodavidoluwadarasimi">LinkedIn</a>
+  <br><br>
+
+  <a href="https://github.com/ojodavidoluwadarasimi">
+    <img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ojodavidoluwadarasimi">GitHub</a>
+  <br><br>
+
+  <a href="https://scorewise-cbt-portal.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="20" height="20" alt="Vercel">
+  </a>
+  &nbsp;
+  <a href="https://scorewise-cbt-portal.vercel.app/">ScoreWise CBT Portal</a>
+  <br><br>
+
+  <a href="mailto:ojodavidoluwadarasimi100@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email">
+  </a>
+  &nbsp;
+  <a href="mailto:ojodavidoluwadarasimi100@gmail.com">ojodavidoluwadarasimi100@gmail.com</a>
 </p>
 
 ---
 
-**My Engineering Philosophy**
+## My Engineering Philosophy
 
 Don't just learn how technology works. Understand why it works, challenge its limitations and build something better.
 
 Curiosity drives me. Engineering shapes me. Building moves me forward.
-
-
