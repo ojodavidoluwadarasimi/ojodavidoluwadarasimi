@@ -78,7 +78,7 @@ My long-term engineering interests include:
 I believe the best way to demonstrate engineering ability is through things people can actually explore, test and learn from.
 
 <p>
-<a href="https://ojodavidoluwadarasimi.netlify.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://ojodavidoluwadarasimi.netlify.app/">https://ojodavidoluwadarasimi.netlify.app/</a><br><br>
+<a href="https://scorewise-cbt-portal.vercel.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://scorewise-cbt-portal.vercel.app/">https://scorewise-cbt-portal.vercel.app/</a><br><br>
 <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub Repositories"></a>&nbsp; <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">https://github.com/ojodavidoluwadarasimi?tab=repositories</a>
 </p>
 
@@ -87,10 +87,10 @@ I believe the best way to demonstrate engineering ability is through things peop
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**ScoreWise**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB style CBT practice portal with 13 subjects, a realistic exam screen and questions that reword themselves. [Live site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript|
 | [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | My personal website showcasing who I am and what I build. [Live site](https://ojodavidoluwadarasimi.netlify.app/) | HTML, CSS, JavaScript |
 | [**Data Structures and Algorithms**](https://github.com/ojodavidoluwadarasimi/data-structures-and-algorithms) | My practice solutions with the approach and time complexity explained. | Python |
 | [**Machine Learning Fundamentals**](https://github.com/ojodavidoluwadarasimi/machine-learning-fundamentals) | Machine learning projects solved from scratch and with scikit-learn. | Python, NumPy, scikit-learn |
-| [**ScoreWise**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB style CBT practice portal with 13 subjects, a realistic exam screen and questions that reword themselves. [Live site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript |
 
 ---
 
@@ -165,8 +165,8 @@ I'm open to connecting with developers, engineers, technology enthusiasts and pe
 <p>
 <a href="https://www.linkedin.com/in/ojodavidoluwadarasimi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn"></a>&nbsp; <a href="https://www.linkedin.com/in/ojodavidoluwadarasimi">https://www.linkedin.com/in/ojodavidoluwadarasimi</a><br><br>
 <a href="https://github.com/ojodavidoluwadarasimi"><img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub"></a>&nbsp; <a href="https://github.com/ojodavidoluwadarasimi">https://github.com/ojodavidoluwadarasimi</a><br><br>
-<a href="https://ojodavidoluwadarasimi.netlify.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://ojodavidoluwadarasimi.netlify.app/">https://ojodavidoluwadarasimi.netlify.app/</a><br><br>
-<a href="mailto:ojodavidoluwadarasimi.pro@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email"></a>&nbsp; <a href="mailto:ojodavidoluwadarasimi100@gmail.com">ojodavidoluwadarasimi100@gmail.com</a>
+<a href="https://scorewise-cbt-portal.vercel.app/"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" height="20" alt="Portfolio"></a>&nbsp; <a href="https://scorewise-cbt-portal.vercel.app/">https://scorewise-cbt-portal.vercel.app/</a><br><br>
+<a href="mailto:ojodavidoluwadarasimi100@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email"></a>&nbsp; <a href="mailto:ojodavidoluwadarasimi100@gmail.com">ojodavidoluwadarasimi100@gmail.com</a>
 </p>
 
 ---
