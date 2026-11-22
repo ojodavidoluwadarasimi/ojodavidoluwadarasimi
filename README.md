@@ -136,7 +136,6 @@ I believe the best way to demonstrate engineering ability is through things peop
 | Project | Description | Tech Stack |
 |---|---|---|
 | [**ScoreWise CBT Portal**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB UTME and Post UTME CBT practice platform featuring 13 subjects, interactive examinations, student authentication, performance tracking and an expanding question bank. [Live Site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript, Python, FastAPI, Supabase, PostgreSQL, REST API, Vercel, Render |
-| [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | My personal website showcasing who I am and what I build. [Live Site](https://ojodavidoluwadarasimi.netlify.app/) | HTML, CSS, JavaScript |
 | [**Data Structures and Algorithms**](https://github.com/ojodavidoluwadarasimi/data-structures-and-algorithms) | Practice solutions exploring algorithms, problem-solving approaches and time complexity. | Python, C++ |
 | [**Machine Learning Fundamentals**](https://github.com/ojodavidoluwadarasimi/machine-learning-fundamentals) | Machine learning projects exploring fundamental concepts and practical implementations. | Python, NumPy, Pandas, Scikit-learn |
 
