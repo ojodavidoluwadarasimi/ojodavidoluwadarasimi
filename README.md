@@ -231,13 +231,6 @@ I'm open to connecting with developers, engineers, technology enthusiasts and pe
   <a href="https://github.com/ojodavidoluwadarasimi">GitHub</a>
   <br><br>
 
-  <a href="https://scorewise-cbt-portal.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/white" width="20" height="20" alt="Vercel">
-  </a>
-  &nbsp;
-  <a href="https://scorewise-cbt-portal.vercel.app/">ScoreWise CBT Portal</a>
-  <br><br>
-
   <a href="mailto:ojodavidoluwadarasimi100@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email">
   </a>
