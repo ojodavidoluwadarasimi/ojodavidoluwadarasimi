@@ -111,29 +111,28 @@ My long-term engineering interests include:
 
 ---
 
+
 ## Explore My Work
 
 I believe the best way to demonstrate engineering ability is through things people can actually explore, test and learn from.
 
-<p>
+<p align="left">
   <a href="https://scorewise-cbt-portal.vercel.app/">
     <img src="https://cdn.simpleicons.org/vercel/white" width="20" height="20" alt="Vercel">
+    &nbsp; ScoreWise CBT Portal
   </a>
-  &nbsp;
-  <a href="https://scorewise-cbt-portal.vercel.app/">ScoreWise CBT Portal</a>
   <br><br>
+
+  <a href="https://kicks-and-cuffs.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="20" height="20" alt="Vercel">
+    &nbsp; Kicks & Cuffs
+  </a>
+  <br><br>
+
   <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">
     <img src="https://cdn.simpleicons.org/github/8b949e" width="20" height="20" alt="GitHub">
+    &nbsp; Explore My Repositories
   </a>
-  &nbsp;
-  <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">Explore My Repositories</a>
-  &nbsp;
-   <a href="https://kicks-and-cuffs.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/white" width="20" height="20" alt="Vercel">
-  </a>
-  &nbsp;
-  <a href="https://kicks-and-cuffs.vercel.app/">Kicks & Cuffs</a>
-  <br><br>
 </p>
 
 ---
