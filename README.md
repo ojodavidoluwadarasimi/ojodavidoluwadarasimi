@@ -127,6 +127,13 @@ I believe the best way to demonstrate engineering ability is through things peop
   </a>
   &nbsp;
   <a href="https://github.com/ojodavidoluwadarasimi?tab=repositories">Explore My Repositories</a>
+  &nbsp;
+   <a href="https://kicks-and-cuffs.vercel.app/">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="20" height="20" alt="Vercel">
+  </a>
+  &nbsp;
+  <a href="https://kicks-and-cuffs.vercel.app/">Kicks & Cuffs</a>
+  <br><br>
 </p>
 
 ---
@@ -136,10 +143,7 @@ I believe the best way to demonstrate engineering ability is through things peop
 | Project | Description | Tech Stack |
 |---|---|---|
 | [**ScoreWise CBT Portal**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB UTME and Post UTME CBT practice platform featuring 13 subjects, interactive examinations, student authentication, performance tracking and an expanding question bank. [Live Site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript, Python, FastAPI, Supabase, PostgreSQL, REST API, Vercel, Render |
-| [**Data Structures and Algorithms**](https://github.com/ojodavidoluwadarasimi/data-structures-and-algorithms) | Practice solutions exploring algorithms, problem-solving approaches and time complexity. | Python, C++ |
-| [**Machine Learning Fundamentals**](https://github.com/ojodavidoluwadarasimi/machine-learning-fundamentals) | Machine learning projects exploring fundamental concepts and practical implementations. | Python, NumPy, Pandas, Scikit-learn |
-
----
+| [**Kicks & Cuffs**](https://github.com/ojodavidoluwadarasimi/kicks-and-cuffs) | An e-commerce platform for footwear featuring corporate shoes and sneakers, size-based inventory management, product browsing, shopping cart, checkout, online payments and order tracking. [Live Site](https://kicks-and-cuffs.vercel.app/) | HTML, CSS, JavaScript, Supabase, PostgreSQL, Supabase Edge Functions, Paystack, Vercel |
 
 ## GitHub Statistics
 
