@@ -143,6 +143,9 @@ I believe the best way to demonstrate engineering ability is through things peop
 |---|---|---|
 | [**ScoreWise CBT Portal**](https://github.com/ojodavidoluwadarasimi/scorewise-cbt-portal) | A JAMB UTME and Post UTME CBT practice platform featuring 13 subjects, interactive examinations, student authentication, performance tracking and an expanding question bank. [Live Site](https://scorewise-cbt-portal.vercel.app/) | HTML, CSS, JavaScript, Python, FastAPI, Supabase, PostgreSQL, REST API, Vercel, Render |
 | [**Kicks & Cuffs**](https://github.com/ojodavidoluwadarasimi/kicks-and-cuffs) | An e-commerce platform for footwear featuring corporate shoes and sneakers, size-based inventory management, product browsing, shopping cart, checkout, online payments and order tracking. [Live Site](https://kicks-and-cuffs.vercel.app/) | HTML, CSS, JavaScript, Supabase, PostgreSQL, Supabase Edge Functions, Paystack, Vercel |
+| [**Personal Portfolio**](https://github.com/ojodavidoluwadarasimi/My-Portfolio-site) | A personal engineering portfolio showcasing my technical interests, development journey, featured projects and professional identity across AI engineering, systems engineering and quantitative development. [Live Site](https://ojodavidoluwadarasimi.vercel.app/) | HTML, CSS, JavaScript, Vercel |
+
+---
 
 ## GitHub Statistics
 
